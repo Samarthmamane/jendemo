@@ -1,1 +1,1 @@
-print("this is pyhon langugae verion32.09")
+print("this is pyhon langugae verion32.10")
